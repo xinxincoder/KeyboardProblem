@@ -1,0 +1,15 @@
+${PODS_ROOT}/Target Support Files/Pods-SSS/Pods-SSS-frameworks.sh
+${BUILT_PRODUCTS_DIR}/ASIHTTPRequest/ASIHTTPRequest.framework
+${BUILT_PRODUCTS_DIR}/AvoidCrash/AvoidCrash.framework
+${BUILT_PRODUCTS_DIR}/CocoaAsyncSocket/CocoaAsyncSocket.framework
+${BUILT_PRODUCTS_DIR}/CocoaLumberjack/CocoaLumberjack.framework
+${BUILT_PRODUCTS_DIR}/ProtocolBuffers/ProtocolBuffers.framework
+${BUILT_PRODUCTS_DIR}/QIMCommonCategories/QIMCommonCategories.framework
+${BUILT_PRODUCTS_DIR}/QIMDataBase/QIMDataBase.framework
+${BUILT_PRODUCTS_DIR}/QIMKitVendor/QIMKitVendor.framework
+${BUILT_PRODUCTS_DIR}/Reachability/Reachability.framework
+${BUILT_PRODUCTS_DIR}/UICKeyChainStore/UICKeyChainStore.framework
+${BUILT_PRODUCTS_DIR}/YYCache/YYCache.framework
+${BUILT_PRODUCTS_DIR}/YYDispatchQueuePool/YYDispatchQueuePool.framework
+${BUILT_PRODUCTS_DIR}/YYModel/YYModel.framework
+${BUILT_PRODUCTS_DIR}/ZipArchive/ZipArchive.framework

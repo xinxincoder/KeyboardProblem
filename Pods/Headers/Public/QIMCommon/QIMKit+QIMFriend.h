@@ -1,0 +1,1 @@
+../../../QIMCommon/ios_libs/Headers/QIMCommon/QIMKit+QIMFriend.h

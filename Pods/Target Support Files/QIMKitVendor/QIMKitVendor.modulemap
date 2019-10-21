@@ -1,0 +1,6 @@
+framework module QIMKitVendor {
+  umbrella header "QIMKitVendor-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "114521C8-88FA-434C-930B-92E5088C1F1B"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7889139C-41DA-4307-B9EA-DA8DD3991002"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/AvoidCrash/AvoidCrash/AvoidCrash.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "125"
+            endingLineNumber = "125"
+            landmarkName = "+getMainCallStackSymbolMessageWithCallStackSymbols:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7889139C-41DA-4307-B9EA-DA8DD3991002 - d4d38bc9bf5c4105"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[AvoidCrash getMainCallStackSymbolMessageWithCallStackSymbols:]"
+                  moduleName = "AvoidCrash"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/liuxinxin/Documents/SSS/Pods/AvoidCrash/AvoidCrash/AvoidCrash.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "7889139C-41DA-4307-B9EA-DA8DD3991002 - 886656ab38ab6018"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__Block_byref_object_copy_"
+                  moduleName = "AvoidCrash"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/liuxinxin/Documents/SSS/Pods/AvoidCrash/AvoidCrash/AvoidCrash.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "7889139C-41DA-4307-B9EA-DA8DD3991002 - 4448b91dba93a459"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__Block_byref_object_dispose_"
+                  moduleName = "AvoidCrash"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/liuxinxin/Documents/SSS/Pods/AvoidCrash/AvoidCrash/AvoidCrash.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
